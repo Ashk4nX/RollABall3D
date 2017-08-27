@@ -1267,6 +1267,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 23647335716246110, guid: a57997bef34c3ed4582de7712032ac68,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: a57997bef34c3ed4582de7712032ac68, type: 2}
   m_IsPrefabParent: 0
@@ -1459,4 +1464,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077742edf6f86994f878580d22030b85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 10
+  Speed: 7
